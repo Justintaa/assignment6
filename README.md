@@ -6,18 +6,18 @@ This project is designed to test the `BarnesAndNoble` bookstore system, ensuring
 Additionally, the project automates the testing and static analysis of the code using **GitHub Actions**, maintaining code quality and integrity throughout the development process.
 
 ## Technologies Used
-- **Java** – The programming language used for implementing the system and tests.
-- **JUnit 5** – A testing framework for writing and running tests.
-- **Mockito** – A mocking framework used to simulate dependencies in the testing environment.
-- **GitHub Actions** – A CI/CD platform used to automate the build, test, and deployment pipeline.
-- **Checkstyle** – A static analysis tool used for code quality checks.
-- **JaCoCo** – A code coverage tool used to measure test coverage.
+- **Java** 
+- **JUnit 5**
+- **Mockito** 
+- **GitHub Actions** 
+- **Checkstyle** 
+- **JaCoCo**
 
 ## Features
-- **Automated Testing**: The project includes both unit tests and integration tests.
-- **Static Analysis**: Checkstyle is integrated to analyze code for style violations.
-- **Code Coverage**: JaCoCo is used to measure test coverage and ensure quality.
-- **CI/CD Pipeline**: The project utilizes GitHub Actions for continuous integration and delivery.
+- **Automated Testing**
+- **Static Analysis**
+- **Code Coverage**
+- **CI/CD Pipeline**
 
 ## How to Run Tests Locally
 To run the tests on your local machine:
