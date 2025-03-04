@@ -1,7 +1,6 @@
 # BarnesAndNoble Testing Automation
 ![Build Status](https://github.com/JustinTaa/Assignment6_Code/actions/workflows/SE333_CI.yml/badge.svg)
 
-
 ## Project Overview
 This project is designed to test the `BarnesAndNoble` bookstore system, ensuring its functionality through **specification-based** and **structural-based** testing. The main goal of this project is to verify the correctness of the system's behavior and interactions with various components such as the book database and the book purchasing process.
 
@@ -36,6 +35,13 @@ To run the tests on your local machine:
 
 
 GitHub Actions - CI/CD Pipeline
+[View GitHub Actions Workflow](https://github.com/JustinTaa/Assignment6_Code/actions/workflows/SE333_CI.yml)
+The GitHub Actions workflow has successfully executed, and all tests have passed.
+The workflow has successfully generated the required artifacts:
+- `checkstyle.xml` 
+- `JaCoCo Coverage Report` 
+  Commit messages follows clean and standard naming conventions, ensuring clear version tracking.
+
 
 This project uses GitHub Actions to automate the following processes:
 * Static Analysis
@@ -52,3 +58,4 @@ Repository Structure
 * README.md: This file.
 * GitHub Repository
   https://github.com/Justintaa/assignment6
+
