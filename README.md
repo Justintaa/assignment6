@@ -1,4 +1,6 @@
 # BarnesAndNoble Testing Automation
+![Build Status](https://github.com/JustinTaa/Assignment6_Code/actions/workflows/SE333_CI.yml/badge.svg)
+
 
 ## Project Overview
 This project is designed to test the `BarnesAndNoble` bookstore system, ensuring its functionality through **specification-based** and **structural-based** testing. The main goal of this project is to verify the correctness of the system's behavior and interactions with various components such as the book database and the book purchasing process.
