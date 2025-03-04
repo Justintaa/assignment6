@@ -33,7 +33,7 @@ jobs:
 
       # Upload Checkstyle Result
       - name: Upload Checkstyle Result
-        uses: actions/upload-artifact@v3.1.0
+        uses: actions/upload-artifact@v4
         with:
           name: checkstyle-report
           path: target/checkstyle-result.xml
@@ -45,7 +45,7 @@ jobs:
 
       # Upload JaCoCo Coverage Report
       - name: Upload JaCoCo Coverage Report
-        uses: actions/upload-artifact@v3.1.0
+        uses: actions/upload-artifact@v4
         with:
           name: jacoco-coverage-report
           path: target/site/jacoco/index.html
